@@ -20,7 +20,7 @@ Below are some of the most common ways to include Cookmate
 ### Browser
 #### Script tag
 ```html
-<!--including Cookmate (recomended) HTML document in head section -->
+<!--Including Cookmate (recomended) HTML document in head section -->
 <script src="https://cdn.jsdelivr.net/npm/cookmate/lib/cookmate.min.js"></script>
 ```
 
