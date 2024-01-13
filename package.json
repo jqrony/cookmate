@@ -1,7 +1,7 @@
 {
   "title": "Cookmate",
   "name": "cookmate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A pure Javascript Cookie management controller Library.",
   "main": "lib/cookiee.js",
   "types": "lib/cookiee.min.js",
