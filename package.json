@@ -1,0 +1,35 @@
+{
+  "title": "Cookmate",
+  "name": "cookmate",
+  "version": "1.0.0",
+  "description": "A pure Javascript Cookie management controller Library.",
+  "main": "lib/cookiee.js",
+  "types": "lib/cookiee.min.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jqrony/cookmate.git"
+  },
+  "keywords": [
+    "cookmate",
+    "cookie controller",
+    "cookie setup",
+    "Javascript",
+    "library",
+    "cookie",
+    "cookie api",
+    "cookie manager",
+    "cookie handler"
+  ],
+  "author": "Shahzada Modassir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jqrony/cookmate/issues"
+  },
+  "homepage": "https://github.com/jqrony/cookmate#readme"
+}
