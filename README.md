@@ -68,7 +68,7 @@ new Cookmate.remove(String key, String path, String domain);
 #### Webpack / Browserify / Babel
 There are several ways to use [Webpack](https://webpack.js.org/), [Browserify](https://browserify.org/) or [Babel](https://babeljs.io/). For more information on using these tools, please refer to the corresponding project's documentation. In the script, including Cookmate will usually look like this:
 ```js
-import cookmate from "snizzle";
+import cookmate from "cookmate";
 ```
 
 If you need to use Cookmate in a file that's not an ECMAScript module, you can use the CommonJS syntax:
@@ -147,6 +147,6 @@ cookmate.has("user");
 fire cookmate `change` event when cookie set, remove, clear
 ```js
 cookmate.on("change", fucntion(event) {
-	console.log(event.deleted, event.changed);
+  console.log(event.deleted, event.changed);
 });
 ```
